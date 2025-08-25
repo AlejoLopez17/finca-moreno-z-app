@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/finca-moreno-z-app/static/css/main.36986e25.css",
-    "main.js": "/finca-moreno-z-app/static/js/main.64507659.js",
+    "main.css": "/finca-moreno-z-app/static/css/main.cd88a32d.css",
+    "main.js": "/finca-moreno-z-app/static/js/main.3c680a6e.js",
     "index.html": "/finca-moreno-z-app/index.html",
-    "main.36986e25.css.map": "/finca-moreno-z-app/static/css/main.36986e25.css.map",
-    "main.64507659.js.map": "/finca-moreno-z-app/static/js/main.64507659.js.map"
+    "main.cd88a32d.css.map": "/finca-moreno-z-app/static/css/main.cd88a32d.css.map",
+    "main.3c680a6e.js.map": "/finca-moreno-z-app/static/js/main.3c680a6e.js.map"
   },
   "entrypoints": [
-    "static/css/main.36986e25.css",
-    "static/js/main.64507659.js"
+    "static/css/main.cd88a32d.css",
+    "static/js/main.3c680a6e.js"
   ]
 }
